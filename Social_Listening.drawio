@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:24:50.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rOZUcyuvaavIbB_-AXMm" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:28:05.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a_Yxm1p0EgT2Bfr7Qkzm" version="24.4.10" type="github">
   <diagram name="Page-1" id="tutniS0hBpH2tcethWB9">
-    <mxGraphModel dx="1376" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="534.5" y="650" width="415" height="170" as="geometry" />
         </mxCell>
         <mxCell id="s-A55GT-aEAoggW8SqSI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.25;" vertex="1" parent="1">
-          <mxGeometry x="534" y="399" width="416" height="191" as="geometry" />
+          <mxGeometry x="534" y="390" width="416" height="200" as="geometry" />
         </mxCell>
         <mxCell id="s-A55GT-aEAoggW8SqSI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=0.25;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="710" height="190" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-A55GT-aEAoggW8SqSI-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://chronicle.lu/images/2024/Apr/20240409_talkwalker-logo-600-314.jpg;" vertex="1" parent="1">
-          <mxGeometry x="309" y="571.4000000000001" width="180" height="94.19" as="geometry" />
+          <mxGeometry x="300" y="556.22" width="189" height="98.9" as="geometry" />
         </mxCell>
         <mxCell id="s-A55GT-aEAoggW8SqSI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=0.25;" edge="1" parent="1" source="s-A55GT-aEAoggW8SqSI-12" target="s-A55GT-aEAoggW8SqSI-13">
           <mxGeometry relative="1" as="geometry" />
@@ -216,6 +216,15 @@
         </mxCell>
         <mxCell id="s-A55GT-aEAoggW8SqSI-70" value="&lt;font face=&quot;Equip Light&quot; style=&quot;font-size: 32px;&quot;&gt;L&#39;oreal&#39;s social listening concept design&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#25247f;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="40" width="505" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-A55GT-aEAoggW8SqSI-71" value="Data Integration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#25247f;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-A55GT-aEAoggW8SqSI-72" value="Video to text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#25247f;" vertex="1" parent="1">
+          <mxGeometry x="670" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-A55GT-aEAoggW8SqSI-73" value="L&#39;oreal&#39;s Datawarehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#25247f;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
